@@ -2,14 +2,7 @@
 
 ### Instructions
 
-1. Clone the repository and navigate to the downloaded folder.
-	
-	```	
-		git clone https://github.com/udacity/aind2-dl.git
-		cd aind2-dl
-	```
-
-2. Obtain the necessary Python packages, and switch Keras backend to Tensorflow.  
+Obtain the necessary Python packages, and switch Keras backend to Tensorflow.  
 	
 	For __Mac/OSX__ or __Linux__:
 	```
