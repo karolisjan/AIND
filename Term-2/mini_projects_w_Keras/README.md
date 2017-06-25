@@ -1,4 +1,4 @@
-# aind2-dl
+# Mini projects with Keras
 
 ### Instructions
 
@@ -26,4 +26,3 @@
 		python -c "from keras import backend"
 	```
 	
-3. Enjoy!
