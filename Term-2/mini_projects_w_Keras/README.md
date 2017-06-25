@@ -2,7 +2,7 @@
 
 ### Instructions
 
-Obtain the necessary Python packages, and switch Keras backend to Tensorflow.  
+1. Obtain the necessary Python packages, and switch Keras backend to Tensorflow.  
 	
 	For __Mac/OSX__ or __Linux__:
 	```
