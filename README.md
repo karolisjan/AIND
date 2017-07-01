@@ -2,10 +2,12 @@
 Projects developed during Udacity's Artificial Intelligence Nanodegree.
 
 - Term 1 - Artificial Intelligence Fundamentals
+
   - [Build a Sign Language Recognizer](#build_a_sign_language_recognizer)
   - [Implement a Planning Search](#implement_a_planning_search)
   - [Build a Game-Playing AI](#build_a_game_playing_ai)
   - [Creating an AI Agent to solve Sudoku](#creating_an_ai_agent_to_solve_sudoku)
+  
 - Term 2 - Deep Learnining
 
 ## Term 1 projects
