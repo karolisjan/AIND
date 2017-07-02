@@ -40,6 +40,6 @@ Created an AI to solve Diagonal Sudokus using constraint propagation and search 
 ## Term 2 projects
 <a id='keras_mini_project'></a>
 ### [Using Keras for Sentiment Analysis](https://github.com/karolisjan/AIND/tree/master/Term-2/mini_projects_w_Keras)
-Analysed a dataset of 50,000 moview reviews from IMDB and used it to predict the sentiment analysis of a review.
+Analysed a dataset of 50,000 movie reviews from IMDB and used it to predict the sentiment of a review.
 
 **Keywords:** *Sentiment Analysis, Natural Language Processing, Neural Networks*
