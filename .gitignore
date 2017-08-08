@@ -1,3 +1,8 @@
+Term-2/dog_project/data
+Term-2/dog_project/face_landmarks
+Term-2/dog_project/bottleneck_features
+Term-2/dog_project/saved_models
+
 # Log files (e.g. for TensorBoard)
 logs/
 
