@@ -11,6 +11,7 @@ Projects developed during Udacity's Artificial Intelligence Nanodegree.
 - **Term 2 - Deep Learning**
 
   - [Using Keras for Sentiment Analysis](#keras_mini_project)
+  - [Dog Breed Classifier](#dog_breed_classifier)
 
 ## Term 1 projects
 <a id='build_a_sign_language_recognizer'></a>
@@ -43,3 +44,9 @@ Created an AI to solve Diagonal Sudokus using constraint propagation and search 
 Analysed a dataset of 50,000 movie reviews from IMDB and used it to predict the sentiment of a review.
 
 **Keywords:** *Sentiment Analysis, Natural Language Processing, Neural Networks*
+
+<a id='dog_breed_classifier'></a>
+### [Dog Breed Classifier](https://nbviewer.jupyter.org/github/karolisjan/AIND/blob/master/Term-2/dog_project/dog_app.ipynb)
+Built an algorithm to identify an estimate of canine breed of a given an image of a dog. If given image of a human, algorithm indentifies resembling dog breed.
+
+**Keywords:** *Deep Convolutional Neural Networks, Transfer Learning*
