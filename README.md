@@ -16,8 +16,8 @@ Projects developed during Udacity's Artificial Intelligence Nanodegree.
   
 ## Term 2 projects
 <a id='facial_keypoints'></a>
-### [Real Time Facial Keypoint Detection](#Term-2/real_time_facial_landmarks_detector/landmarks_detector_training.ipynb)
-Built an end-to-end real-time facial keypoint recognition [system](#https://github.com/karolisjan/AIND/blob/master/Term-2/real_time_facial_landmarks_detector/main.py). Facial keypoints include points around the eyes, nose, and mouth on any face and are used in many applications, from facial tracking to emotion recognition. 
+### [Real Time Facial Keypoint Detection](Term-2/real_time_facial_landmarks_detector/landmarks_detector_training.ipynb)
+Built an end-to-end real-time facial keypoint recognition [system](Term-2/real_time_facial_landmarks_detector/main.py). Facial keypoints include points around the eyes, nose, and mouth on any face and are used in many applications, from facial tracking to emotion recognition. 
 
 **Keywords:** Convolutional Neural Networks, Facial Keypoint Detection, OpenCV.
 
