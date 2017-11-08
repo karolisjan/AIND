@@ -29,7 +29,7 @@ Built RNNs that can generate sequences based on input data - with a focus on two
 
 <a id='dog_breed_classifier'></a>
 ### [Dog Breed Classifier](Term-2/dog_breed_classifier)
-Created a CNN-based application to classify 133 different dog breeds with 87.42% accuracy.
+Applied Data Augmentation and Transfer Learning to create a CNN-based application to classify 133 different dog breeds with 87.42% accuracy.
 
 **Keywords:** *Deep Convolutional Neural Networks, Transfer Learning*
 <a id='keras_mini_project'></a>
