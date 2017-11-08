@@ -19,9 +19,13 @@ Projects developed during Udacity's Artificial Intelligence Nanodegree.
 ### [Real Time Facial Keypoint Detection](#Term-2/real_time_facial_landmarks_detector/landmarks_detector_training.ipynb)
 Built an end-to-end real-time facial keypoint recognition [system](#https://github.com/karolisjan/AIND/blob/master/Term-2/real_time_facial_landmarks_detector/main.py). Facial keypoints include points around the eyes, nose, and mouth on any face and are used in many applications, from facial tracking to emotion recognition. 
 
+**Keywords:** Convolutional Neural Networks, Facial Keypoint Detection, OpenCV.
+
 <a id='rnns'></a>
 ### [Recurrent Neural Networks](Term-2/RNNs)
 Built RNNs that can generate sequences based on input data - with a focus on two applications: used real market data in order to predict future Apple stock prices using an RNN model. The second one was be trained on Sir Arthur Conan Doyle's classic novel Sherlock Holmes to generates wacky sentences based on it.
+
+**Keywords:** Recurrent Neural Networks, Time Series, Natural Language Processing.
 
 <a id='dog_breed_classifier'></a>
 ### [Dog Breed Classifier](Term-2/dog_breed_classifier)
