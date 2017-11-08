@@ -1,21 +1,12 @@
-# Mini projects with Keras
+# Natural Language Processing (NLP)
+A collection of NLP projects/tutorials. 
 
-### Instructions
+## [Supervised Text Classification](https://github.com/karolisjan/Natural-Language-Processing/tree/master/supervised_classification)
+Classification of the positive and negative sentiment in the [IMDB movie reviews](https://ai.stanford.edu/~amaas/data/sentiment/). 
 
-1. Obtain the necessary Python packages, and switch Keras backend to Tensorflow.  
-	
-	For __Mac/OSX__ or __Linux__:
-	```
-		conda env create -f requirements/aind-dl-mac-linux.yml
-		source activate aind-dl
-		KERAS_BACKEND=tensorflow python -c "from keras import backend"
-	```
+- [Logistic Regression based model](https://github.com/karolisjan/Natural-Language-Processing/blob/master/supervised_classification/supervised_text_classification.ipynb)
+- [Neural Network based model](https://github.com/karolisjan/Natural-Language-Processing/blob/master/supervised_classification/supervised_text_classification_w_Keras.ipynb) 
 
-	For __Windows__:
-	```
-		conda env create -f requirements/aind-dl-windows.yml
-		activate aind-dl
-		set KERAS_BACKEND=tensorflow
-		python -c "from keras import backend"
-	```
-	
+Neural Network based model was created with a [custom wrapper](https://github.com/karolisjan/Keras-Wrapper) written for [Keras](https://keras.io/) running on top of [TensorFlow](https://github.com/tensorflow/tensorflow).
+
+A [Tf-Idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) matrix was used as input for both models. Both models achieved over 85% accuracy on a test set.  
