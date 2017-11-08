@@ -1,7 +1,7 @@
-Term-2/dog_project/data
-Term-2/dog_project/face_landmarks
-Term-2/dog_project/bottleneck_features
-Term-2/dog_project/saved_models
+Term-2/dog_breed_classifier/data
+Term-2/dog_breed_classifier/face_landmarks
+Term-2/dog_breed_classifier/bottleneck_features
+Term-2/dog_breed_classifier/saved_models
 ignore
 *.csv
 
